@@ -11,3 +11,14 @@
     font-size: 21px;
     margin: 0;
 }
+.btn-clear-cart{
+    width: 100%;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    margin: 15px auto;
+    background-color: #FF3030;
+    color: white;
+    border-radius: 5px;
+    align-items: center;
+}
